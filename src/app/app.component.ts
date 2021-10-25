@@ -28,20 +28,21 @@ export class AppComponent {
 
   mydata = [
     {   
-        "date": "Batman v. Superman",
-        "opening": "Batman v. Superman",
-        "closing": "Zack Snider",
+        "date": "Probe information",
+        "opening": "Probe information",
+        "closing": "Probe information",
         
     },
     {
-      "date": "Batman v. Superman",
-      "opening": "Batman v. Superman",
-      "closing": "Zack Snider",
+      "date": "Probe information",
+      "opening": "Probe information",
+      "closing": "Probe information",
     },
     {
-      "date": "Batman v. Superman",
-      "opening": "Batman v. Superman",
-      "closing": "Zack Snider",
+      "date": "Probe information",
+      "opening": "Probe information",
+      "closing": "Probe information",
     }];
 }
+
 
